@@ -1,8 +1,8 @@
 module.exports = {
   title: '佛說大乘無量壽莊嚴清淨平等覺經會集本',
   tagline: '作者：夏蓮居',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://l2yao.github.io',
+  baseUrl: '/infinite-life-sutra/',
   favicon: 'img/favicon.ico',
   organizationName: 'l2yao', // Usually your GitHub org/user name.
   projectName: 'infinite-life-sutra', // Usually your repo name.
@@ -32,50 +32,28 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '參考網站',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: '佛說大乘無量壽莊嚴清淨平等覺經',
+              href: 'http://www.amtb.org.tw/pdf/CH02-02-01.pdf',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '佛說大乘無量壽莊嚴清淨平等覺經解',
+              href: 'http://www.amtb.org.tw/pdf/HZ02-36-03.pdf',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'Social',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
+              label: '佛說大乘無量壽莊嚴清淨平等覺經科註',
+              href: 'http://www.amtb.org.tw/pdf/HZ02-39-04.pdf',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: '大乘無量壽經科會眉註合刊',
+              href: 'http://www.amtb.org.tw/pdf/02-01jy.pdf',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Long Yao, Built with Docusaurus.`,
     },
   },
   presets: [
