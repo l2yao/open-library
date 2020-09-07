@@ -14,12 +14,6 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {
-          to: 'docs/ru',
-          activeBasePath: 'docs',
-          label: '经本',
-          position: 'left',
-        },
         //{to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
