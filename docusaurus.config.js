@@ -14,6 +14,12 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          href: 'https://github.com/l2yao/open-library',
+          position: 'right',
+          className: 'header-github-link',
+          label: 'GitHub',
+        },
         //{to: 'blog', label: 'Blog', position: 'left'},
       ],
     },
