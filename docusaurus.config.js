@@ -20,7 +20,7 @@ module.exports = {
           className: 'header-github-link',
           label: 'GitHub',
         },
-        //{to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'docs/foxiang', label: '佛像', position: 'left'},
       ],
     },
     footer: {
